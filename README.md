@@ -1,2 +1,2 @@
 # Beginner-Scripts
-Beginer Scripts 
+Beginner Scripts 
